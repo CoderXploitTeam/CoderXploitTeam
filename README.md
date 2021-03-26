@@ -33,5 +33,5 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 ### Let's connect!
 <p>
     <a href="#" target="blank"><img src="https://img.shields.io/badge/Website-https://coderxploitteam.blogspot.com-green?" /></a>
-    <a href="#" target="blank"><img src="https://img.shields.io/badge/Coder-Xploit-Team-30302f?style=flat&logo=facebook" /></a>
+    <a href="#" target="blank"><img src="https://img.shields.io/badge/Facebook-CoderXploitTeam-30302f?style=flat&logo=facebook" /></a>
     </p>
